@@ -1,6 +1,6 @@
 # 🤖 LLamaIndex RAG Pipeline with NL2SQL and MetaData Filtering 
 
-In this repo, we'll create a LLamaIndex RAG pipeline with NL2SQL and MetaData Filtering. This project was done during week 4 of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
+In this repo, we'll create a LLamaIndex RAG pipeline with NL2SQL and MetaData Filtering.
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1-o2fTWbFcTgShFl-aSt099-IffBGlCtM?usp=sharing)
 
